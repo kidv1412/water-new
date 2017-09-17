@@ -1,0 +1,23 @@
+.login-dialog {
+	display: none;
+	position: fixed;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 100001;
+}
+
+.over-dialog {
+	display: none;
+	position: fixed;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #313131;
+	opacity: 0.5;
+	z-index: 100000;
+}
